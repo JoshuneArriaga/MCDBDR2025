@@ -10,4 +10,4 @@ Repositorio creado para la materia de base de datos relacionales impartida por e
 ### *Tareas*
 
 - [Tarea 1](/Tarea%201/Tarea1_BDR.md)
-- [Tarea 2](/Tarea%202/Tarea2.drawio.png)
+- [Tarea 2](/Tarea%202/Tarea2_BDR.md)
